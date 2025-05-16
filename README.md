@@ -20,7 +20,6 @@ Todo-MD is a command-line utility that scans your codebase for `TODO` and `FIXME
 ├── todo_context.py
 ├── sample_project/
 ├── sample_project_v2/
-├── sample_project_v3/
 ├── tests/
 │   ├── fixtures/
 │   ├── test_todo_md_v1.py
